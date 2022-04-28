@@ -7,7 +7,7 @@
 - <div align="left">💂I'm a passionate developer interested in new emerging web technologies.</div>  
   
 
-- <div align="left">📘I’m currently learning React.js and Solidity. </div>  
+- <div align="left">📘I’m currently learning React (Next JS) and Solidity. </div>  
  
 ## Connect with me  
 <div align="left">
